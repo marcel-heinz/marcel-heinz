@@ -1,6 +1,6 @@
 # Marcel Heinz
 
-**AI Architect · Agentic AI & end-to-end transformation for insurers and banks**
+**AI Architect · Agentic AI & end-to-end transformation for insurers and banks**\
 Founder @ [Zeyt Advisory](https://zeyt-advisory.com) & [Safebird](https://safebird.ai) · Leipzig, Germany
 
 I help insurers and financial services firms redesign processes end-to-end with AI agents, from strategy and target architecture to systems running in production. Ex Accenture / EY where I led the GenAI Insurance Practice in Germany.
